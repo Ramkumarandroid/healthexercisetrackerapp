@@ -37,6 +37,8 @@ No
 * Click on Tracker List to Navigate to the corresponding exercise. once we click the Start button timer will start and the remaining  seconds will Show once it reaches 0 seconds 
   Alert dialog will show Exercise completed. Click on Ok button to move back to the Home Screen with the exercise mark as completed by showing a green tick icon.
 
+**Policy**
+* I have used Mutable model for generating Exercise Model.
 
 
 
